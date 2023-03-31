@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d47783b-3ae4-414b-adfa-5cd6ace0099e" name="server.netis">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="server.netis" port="22" sshConfigId="91d6b47e-3d0a-41ec-9720-4bde2c993330" sshConfig="bitrix@server.netis:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
