@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="server.netis" id="91d6b47e-3d0a-41ec-9720-4bde2c993330" port="22" nameFormat="DESCRIPTIVE" username="bitrix" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="server.netis" id="920e1ed0-9b72-4b07-91ae-9efa19c5c797" port="22" nameFormat="DESCRIPTIVE" username="bitrix" useOpenSSHConfig="true" />
     </configs>
   </component>
 </project>
